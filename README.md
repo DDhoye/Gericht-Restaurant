@@ -1,8 +1,17 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![restaurant-icon](https://github.com/DDhoye/Gericht-Restaurant/assets/105569187/ed68ca1a-f1d2-490d-b192-9bb47f402559)
 
-Currently, two official plugins are available:
+Gericht Restuarant
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a restuarant website that is built with React and CSS.
+This website features a modern and intuitive design with an easy to
+use navigation and focuses on showing the products and services offered
+by the restaurant.
+
+Built With:
+React Js
+Vanilla CSS
+
+
+
+
